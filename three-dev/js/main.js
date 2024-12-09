@@ -50,7 +50,9 @@ function init() {
 
       // model
 
-      const loader = new GLTFLoader().setPath('/~abdura/three-js/2/models/');
+      const loader = new GLTFLoader().setPath(
+        '/~abdura/three-js/world/models/'
+      );
       loader.load('World_Blender/world.gltf', async function (gltf) {
         const model = gltf.scene;
         model.scale.set(2, 2, 2);
