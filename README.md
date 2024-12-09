@@ -1,3 +1,3 @@
-# Three.js first second task
+# Three.js world
 
-[Link to the page](https://users.metropolia.fi/~abdura/three-js/2/)
+[Link to the page](https://users.metropolia.fi/~abdura/three-js/world/)
